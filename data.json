@@ -1,9 +1,42 @@
-[{
-        "title": "ali",
-        "text": "this is not belong to me !!!"
+[
+    {
+        "title": "Note 1",
+        "text": "this is content of note 1"
     },
     {
-        "title": "mohammed",
-        "text": "this is not normal"
+        "title": "Note 2",
+        "text": "this is content of note 2"
+    },
+    {
+        "title": "Note 3",
+        "text": "this is content of note 3"
+    },
+    {
+        "title": "Note 4",
+        "text": "this is content of note 4"
+    },
+    {
+        "title": "Note 5",
+        "text": "this is content of note 5"
+    },
+    {
+        "title": "Note 6",
+        "text": "this is content of note 6"
+    },
+    {
+        "title": "Note 7",
+        "text": "this is content of note 7"
+    },
+    {
+        "title": "Note 8",
+        "text": "this is content of note 8"
+    },
+    {
+        "title": "Note 9",
+        "text": "this is content of note 9"
+    },
+    {
+        "title": "Note 10",
+        "text": "this is content of note 10"
     }
 ]
